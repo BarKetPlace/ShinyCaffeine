@@ -5,7 +5,7 @@ For development purposes we can run the server and modify the internal code loca
 For this, create a file containing these lines:
 ```bash
 library(shiny)
-runApp("<Repo folder>")
+runApp("app")
 ```
 and run it using R.
 
